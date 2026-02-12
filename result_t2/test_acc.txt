@@ -1,0 +1,14 @@
+Final test accuracies for each training setup:
+
+1. sigmoid + zero → 0.1135
+2. sigmoid + random → 0.1135
+3. sigmoid + xavier → 0.3435
+4. tanh + zero → 0.1135
+5. tanh + random → 0.5659
+6. tanh + xavier → 0.7198
+7. relu + zero → 0.1135
+8. relu + random → 0.4692
+9. relu + xavier → 0.6463
+10. leaky_relu + zero → 0.1135
+11. leaky_relu + random → 0.3723
+12. leaky_relu + xavier → 0.6495
